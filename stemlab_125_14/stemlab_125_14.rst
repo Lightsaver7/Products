@@ -16,9 +16,9 @@ Here is a list of all products that include STEMlab 125-14 or some variation of 
     ./low_noise_Z7020.rst
     ./x-channel.rst
     ./4-input.rst
-    ./diagnostic_kit.rst
-    ./edu_pack.rst
-    ./ulitmate_kit.rst
+    ./kits/diagnostic_kit.rst
+    ./kits/edu_pack.rst
+    ./kits/ulitmate_kit.rst
     ./calibrated_kit.rst
     ./iso17025.rst
     ./oem.rst
