@@ -7,7 +7,10 @@ Here is a list of all accessories for our boards.
     
     Please note that this documentation gets edited sporadically. You can find the most up-to-date information here |hardware_docs|.
 
-.. toctree::
+Under construction
+------------------
+
+.. .. toctree::
     :maxdepth: 2
     
     ./cases/alu_case.rst
