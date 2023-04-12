@@ -43,4 +43,4 @@ Webstore link
 
 .. |shop_link| raw:: html
 
-    <a href="https://redpitaya.com/product/stemlab-125-14-low-noise-starter-kit/" target="_blank">STEMlab 125-14 Starter Kit</a>
+    <a href="https://redpitaya.com/product/stemlab-125-14-low-noise-starter-kit/" target="_blank">STEMlab 125-14 Low-Noise Starter Kit</a>
