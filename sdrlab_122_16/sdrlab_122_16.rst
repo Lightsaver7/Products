@@ -5,7 +5,7 @@ Here is a list of all products that include SDRlab 122-16 or some variation of i
 
 .. note::
     
-    Please note that this documentation gets edited sporadically. You can find the most up-to-date information here |hardware_docs|.
+    Please note that this documentation gets edited sporadically. You can find the most up-to-date information |hardware_docs|.
 
 .. toctree::
     :maxdepth: 1
@@ -14,6 +14,6 @@ Here is a list of all products that include SDRlab 122-16 or some variation of i
     ./ext_clk.rst
     
     
-    .. |hardware_docs| raw:: html
+.. |hardware_docs| raw:: html
     
-        <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware.html#hardware" target="_blank">here</a>
+    <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware.html#hardware" target="_blank">here</a>
