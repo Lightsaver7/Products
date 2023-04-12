@@ -19,7 +19,7 @@ Here is a list of all products that include STEMlab 125-14 or some variation of 
     ./kits/diagnostic_kit.rst
     ./kits/edu_pack.rst
     ./kits/ulitmate_kit.rst
-    ./calibrated_kit.rst
+    ./kits/calibrated_kit.rst
     ./iso17025.rst
     ./oem.rst
     
