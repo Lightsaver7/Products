@@ -14,6 +14,6 @@ Here is a list of all products that include SIGNALlab 250-12 or some variation o
     ./oem.rst
     
     
-    .. |hardware_docs| raw:: html
+.. |hardware_docs| raw:: html
     
-        <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware.html#hardware" target="_blank">here</a>
+    <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware.html#hardware" target="_blank">here</a>
