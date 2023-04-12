@@ -5,7 +5,7 @@ Here is a list of all products that include STEMlab 125-14 or some variation of 
 
 .. note::
     
-    Please note that this documentation gets edited sporadically. You can find the most up-to-date information here |hardware_docs|.
+    Please note that this documentation gets edited sporadically. You can find the most up-to-date information |hardware_docs|.
 
 .. toctree::
     :maxdepth: 1
@@ -24,6 +24,6 @@ Here is a list of all products that include STEMlab 125-14 or some variation of 
     ./oem.rst
     
     
-    .. |hardware_docs| raw:: html
-    
-        <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware.html#hardware" target="_blank">here</a>
+.. |hardware_docs| raw:: html
+
+    <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware.html#hardware" target="_blank">here</a>
