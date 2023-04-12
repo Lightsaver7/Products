@@ -1,7 +1,7 @@
 SDRlab 122-16 Standard Kit
 ##########################
 
-  *SKU: IZD0007*
+  *SKU: IZD0021*
 
 About the product
 -----------------
