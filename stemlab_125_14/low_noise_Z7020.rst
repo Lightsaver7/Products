@@ -3,7 +3,7 @@ STEMlab 125-14 Z7020 Low-Noise Starter Kit
 
    *SKU: IZD0029*
    
-.. figure:: img/STEMlab-125-14-Zynq-low-noise.jgp
+.. figure:: img/STEMlab-125-14-Zynq-low-noise.jpg
    :width: 50%
 
 About the product
