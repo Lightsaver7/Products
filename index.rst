@@ -2,7 +2,7 @@ Welcome to the Red Pitaya products
 ##################################
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :numbered:
     
     ./stemlab_125_14/stemlab_125_14_top.rst
