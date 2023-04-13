@@ -160,8 +160,8 @@ Technical specifications
     +====================================+====================================+
     | Trigger input                      | Through BNC connector              |
     +------------------------------------+------------------------------------+
-    | Daisy chain connection             | Over SATA connection |br|          |
-    |                                    | (up to 500 Mbps)                   |
+    | Daisy chain connection             | | Over SATA connection             |
+    |                                    | | (up to 500 Mbps)                 |
     +------------------------------------+------------------------------------+
     | Ref. clock input                   | Through SMA connector              |
     +------------------------------------+------------------------------------+
