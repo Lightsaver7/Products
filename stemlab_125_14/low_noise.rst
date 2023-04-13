@@ -3,7 +3,7 @@ STEMlab 125-14 Low-Noise Starter Kit
 
     *SKU: IZD0030*
 
-.. figure:: img/STEMlab-125-14-Starter-kit-low-noise_with-badge.jgp
+.. figure:: img/STEMlab-125-14-Starter-kit-low-noise_with-badge.jpg
     :width: 50%
 
 About the product
