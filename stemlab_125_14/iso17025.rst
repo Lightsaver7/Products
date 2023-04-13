@@ -3,7 +3,7 @@ STEMlab 125-14 ISO17025
 
 ..    *SKU: IZD0005*
   
-.. figure:: img/STEMlab-125-14-Starter-kit-ISO_with-badge.jgp
+.. figure:: img/STEMlab-125-14-Starter-kit-ISO_with-badge.jpg
     :width: 50%
 
 About the product
