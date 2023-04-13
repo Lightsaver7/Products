@@ -4,7 +4,7 @@ STEMlab 125-14 Calibrated Kit
     *SKU: IZD0004*
 
 
-.. figure:: img/STEMlab-125-14-Calibrated-kit-POPRAVEK.jpg
+.. figure:: ../img/STEMlab-125-14-Calibrated-kit-POPRAVEK.jpg
     :width: 50%
 
 About the product
