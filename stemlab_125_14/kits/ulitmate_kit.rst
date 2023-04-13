@@ -3,7 +3,7 @@ STEMlab 125-14 Ultimate Kit
 
     *SKU: IZD0008*
 
-.. figure:: img/STEMlab-125-14-Ultimate-kit-POPRAVEK.jpg
+.. figure:: ../img/STEMlab-125-14-Ultimate-kit-POPRAVEK.jpg
     :width: 50%
 
 About the product
