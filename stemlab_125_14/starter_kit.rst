@@ -3,7 +3,7 @@ STEMlab 125-14 starter kit
 
   *SKU: IZD0007*
   
-.. figure:: img/STEMlab-125-14-Starter-kit.jgp
+.. figure:: img/STEMlab-125-14-Starter-kit.jpg
     :width: 50%
 
 About the product
