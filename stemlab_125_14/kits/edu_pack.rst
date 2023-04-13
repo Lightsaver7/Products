@@ -197,7 +197,7 @@ More information on the links below:
 Webstore link
 -------------
 
-* |shop_link|
+    * |shop_link|
 
 
 .. |quickstart| raw:: html
