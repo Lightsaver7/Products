@@ -167,8 +167,8 @@ Technical specifications
     +====================================+====================================+
     | Trigger input                      | Through extension connector        |
     +------------------------------------+------------------------------------+
-    | Daisy chain connection             | Over SATA connection |br|          |
-    |                                    | (up to 500 Mbps)                   |
+    | Daisy chain connection             | | Over SATA connection             |
+    |                                    | | (up to 500 Mbps)                 |
     +------------------------------------+------------------------------------+
     | Ref. clock input                   | N/A                                |
     +------------------------------------+------------------------------------+
@@ -188,39 +188,14 @@ Technical specifications
 
 
 More information on the links below:
-    * |quickstart|
-    * |apps&features|
-    * |comparison_table|
-    * |hardware_specs|
-    * |software|
+    * `Quick start <https://redpitaya.readthedocs.io/en/latest/quickStart/quickStart.html#quick-start>`_
+    * `Applications & Features <https://redpitaya.readthedocs.io/en/latest/appsFeatures/appsFeatures.html#applications-and-features>`_
+    * `Product comparison table <https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware/compares/vs.html#product-comparison-table>`_
+    * `Hardware specifications <https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware/122-16_EXT/top.html#sdrlab-122-16-external-clock>`_
+    * `Software development <https://redpitaya.readthedocs.io/en/latest/developerGuide/software/software.html#software>`_
 
 
 Webstore link
 -------------
 
-    * |shop_link|
-
-
-.. |quickstart| raw:: html
-
-    <a href="https://redpitaya.readthedocs.io/en/latest/quickStart/quickStart.html#quick-start" target="_blank">Quick start</a>
-    
-.. |apps&features| raw:: html
-
-    <a href="https://redpitaya.readthedocs.io/en/latest/appsFeatures/appsFeatures.html#applications-and-features" target="_blank">Applications & Features</a>
-
-.. |comparison_table| raw:: html
-
-    <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware/compares/vs.html#product-comparison-table" target="_blank">Product comparison table</a>
-    
-.. |hardware_specs| raw:: html
-
-    <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/hardware/122-16_EXT/top.html#sdrlab-122-16-external-clock" target="_blank">Hardware specifications</a>
-
-.. |software| raw:: html
-
-    <a href="https://redpitaya.readthedocs.io/en/latest/developerGuide/software/software.html#software" target="_blank">Software development</a>
-
-.. |shop_link| raw:: html
-
-    <a href="https://redpitaya.com/product/sdrlab-122-16-external-clock-standard-kit/" target="_blank">SDRlab 122-16 External Clock Standard Kit</a>
+    * `SDRlab 122-16 External Clock Standard Kit <https://redpitaya.com/product/sdrlab-122-16-external-clock-standard-kit/>`_
