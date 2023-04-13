@@ -3,7 +3,7 @@ STEMlab 125-14 Diagnostic Kit
 
     *SKU: IZD0005*
 
-.. figure:: img/STEMlab-125-14-Diagnostic-kit-POPRAVEK.jpg
+.. figure:: ../img/STEMlab-125-14-Diagnostic-kit-POPRAVEK.jpg
     :width: 50%
 
 
