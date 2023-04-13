@@ -3,7 +3,7 @@ STEMlab 125-14 4-Input Starter Kit
 
     *SKU: IZD0040*
   
-.. figure:: img/STEMlab-125-14-4input_with-badge.jgp
+.. figure:: img/STEMlab-125-14-4input_with-badge.jpg
     :width: 50%
 
 About the product
