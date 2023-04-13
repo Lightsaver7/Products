@@ -3,7 +3,7 @@ STEMlab 125-14 External Clock Starter Kit
 
     *SKU: IZD0031*
 
-.. figure:: img/STEMlab-125-14-externalclock_with-badge.jgp
+.. figure:: img/STEMlab-125-14-externalclock_with-badge.jpg
     :width: 50%
 
 About the product
