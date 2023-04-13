@@ -2,9 +2,10 @@ STEMlab 125-14 Board for OEM partners
 #####################################
 
     *SKU: MAT0016*
-  
+
 .. figure:: img/STEMlab-125-14-Board-for-OEM-partners_with-badge.jpg
     :width: 50%
+
 
 About the product
 -----------------
