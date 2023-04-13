@@ -7,7 +7,6 @@ STEMlab 125-14 Calibrated Kit
 .. figure:: img/STEMlab-125-14-Calibrated-kit-POPRAVEK.jpg
     :width: 50%
 
-
 About the product
 -----------------
 
