@@ -3,7 +3,7 @@ STEMlab 125-14 Edu Pack
 
     *SKU: IZD0042*
   
-.. figure:: img/STEMlab-125-14-EDU-pack.png
+.. figure:: ../img/STEMlab-125-14-EDU-pack.png
     :width: 50%
 
 About the product
