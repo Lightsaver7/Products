@@ -31,6 +31,7 @@ What is in the box
 
 Technical specifications
 ------------------------
+
 .. table::
     :widths: 10 18
 
